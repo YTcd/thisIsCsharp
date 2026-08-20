@@ -4,14 +4,14 @@ namespace Hello
 {
     class helloWorld
     {
-        static void Main(string[] args)
+        public static void hello(string[] args)
         {
             if (args.Length == 0)
             {
                 Console.WriteLine("Hello World");
                 return;
             }
-            WriteLine("Hello, {0}", args[0]);
+            WriteLine("Hello, {0}d", args[0]);
         }
     }
 }
