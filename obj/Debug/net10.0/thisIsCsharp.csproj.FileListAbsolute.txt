@@ -1,0 +1,15 @@
+C:\Users\master\workspace\thisIsCsharp\bin\Debug\net10.0\thisIsCsharp.exe
+C:\Users\master\workspace\thisIsCsharp\bin\Debug\net10.0\thisIsCsharp.deps.json
+C:\Users\master\workspace\thisIsCsharp\bin\Debug\net10.0\thisIsCsharp.runtimeconfig.json
+C:\Users\master\workspace\thisIsCsharp\bin\Debug\net10.0\thisIsCsharp.dll
+C:\Users\master\workspace\thisIsCsharp\bin\Debug\net10.0\thisIsCsharp.pdb
+C:\Users\master\workspace\thisIsCsharp\obj\Debug\net10.0\thisIsCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\workspace\thisIsCsharp\obj\Debug\net10.0\thisIsCsharp.AssemblyInfoInputs.cache
+C:\Users\master\workspace\thisIsCsharp\obj\Debug\net10.0\thisIsCsharp.AssemblyInfo.cs
+C:\Users\master\workspace\thisIsCsharp\obj\Debug\net10.0\thisIsCsharp.csproj.CoreCompileInputs.cache
+C:\Users\master\workspace\thisIsCsharp\obj\Debug\net10.0\thisIsCsharp.sourcelink.json
+C:\Users\master\workspace\thisIsCsharp\obj\Debug\net10.0\thisIsCsharp.dll
+C:\Users\master\workspace\thisIsCsharp\obj\Debug\net10.0\refint\thisIsCsharp.dll
+C:\Users\master\workspace\thisIsCsharp\obj\Debug\net10.0\thisIsCsharp.pdb
+C:\Users\master\workspace\thisIsCsharp\obj\Debug\net10.0\thisIsCsharp.genruntimeconfig.cache
+C:\Users\master\workspace\thisIsCsharp\obj\Debug\net10.0\ref\thisIsCsharp.dll
